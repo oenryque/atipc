@@ -133,7 +133,12 @@
     "subtitulo": "Na Prime Academia, oferecemos equipamentos de última geração, aulas dinâmicas e personal trainers experientes para ajudá-lo a alcançar seus objetivos fitness.",
     "imagem": "https://media.istockphoto.com/id/1501067984/pt/foto/body-building-center-with-exercise-machines-integrated-inside-a-penthouse-recreation-area.jpg?s=612x612&w=0&k=20&c=Mn5s8ybz5sWgqqoECFDzwRTR5W9baFFrFdopE_HjkqM=",
     "imagemFallback": "https://blog.damamaefitness.com.br/wp-content/uploads/2020/07/Como-se-acostumar-a-ir-na-academia-frequentemente.jpg",
-    "linkMatricula": "/matricula"
+    "linkMatricula": "/matricula",
+    "images": [
+      "images/slide-1.png",
+      "images/slide-2.png"
+
+    ]
   },
   "horarios": {
     "domingo": "Fechado",
