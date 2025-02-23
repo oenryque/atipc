@@ -16,6 +16,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export', // 🔥 Adiciona exportação estática
   experimental: {
     webpackBuildWorker: true,
     parallelServerBuildTraces: true,
@@ -35,6 +36,7 @@ function mergeConfig(nextConfig, userConfig) {
       typeof nextConfig[key] === 'object' &&
       !Array.isArray(nextConfig[key])
     ) {
+      
       nextConfig[key] = {
         ...nextConfig[key],
         ...userConfig[key],
