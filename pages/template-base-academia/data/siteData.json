@@ -1,13 +1,13 @@
 {
   "nome": "Prime Academia",
   "descricao": "Transformando vidas através do fitness.",
-  "logo": "/images/prime-academia.png",
+  "logo": "/images/logo.png",
   "cores": {
     "primary": "#EDFE0E", 
     "secondary": "#FFFFFF",
     "background": "#F8F8F8",
     "text": "#333333",
-    "headerBackground": "#181818",
+    "headerBackground": "#000000",
     "headerText": "#ffffff",
     "heroOverlay": "rgba(0, 0, 0, 0.7)",
     "buttonText": "#000000",
@@ -39,6 +39,11 @@
     "titulo": "Nossos Benefícios",
     "lista": [
       {
+        "icon": "Users",
+        "titulo": "Aplicativo Prime Academia",
+        "descricao": "Acesse o aplicativo Prime Academia para gerenciar seu treino, horários e muito mais."
+      },
+      {
         "icon": "Dumbbell",
         "titulo": "Equipamentos Modernos",
         "descricao": "Treine com os equipamentos mais avançados do mercado."
@@ -47,11 +52,6 @@
         "icon": "Users",
         "titulo": "Aulas em Grupo",
         "descricao": "Participe de aulas dinâmicas e motivadoras."
-      },
-      {
-        "icon": "Users",
-        "titulo": "Aplicativo Prime Academia",
-        "descricao": "Acesse o aplicativo Prime Academia para gerenciar seu treino, horários e muito mais."
       },
       {
         "icon": "Heart",

@@ -1,0 +1,141 @@
+{
+  "nome": "Studio Sallus",
+  "descricao": "Personal Trainer - Fisioterapia - Estética",
+  "logo": "/images/logo.png",
+  "cores": {
+    "primary": "#4DE3A7",
+    "secondary": "#FFFFFF",
+    "background": "#F8F8F8",
+    "text": "#333333",
+    "headerBackground": "#005933",
+    "headerText": "#ffffff",
+    "heroOverlay": "rgba(0, 89, 51, 0.7)",
+    "buttonText": "#000000",
+    "buttonHover": "#FFFF00",
+    "featuresBackground": "#F0F0F0",
+    "testimonialBackground": "#FFFFFF",
+    "pricingBackground": "#F5F5F5",
+    "footerBackground": "#333333",
+    "footerText": "#FFFFFF",
+    "buttonDefaultBackground": "#4DE3A7",
+    "buttonSecondaryBackground": "#FFFFFF",
+    "buttonOutlineBorder": "#333333"
+  },
+  "cta": {
+    "titulo": "Cuide do Seu Corpo e Mente",
+    "subtitulo": "Descubra como nossos serviços de personal trainer, fisioterapia e estética podem transformar sua vida.",
+    "linkMatricula": "/matricula"
+  },
+  "header": {
+    "links": [
+      { "nome": "Benefícios", "href": "#features" },
+      { "nome": "Depoimentos", "href": "#testimonials" },
+      { "nome": "Planos", "href": "#pricing" },
+      { "nome": "Local", "href": "#map" }
+    ]
+  },
+  "features": {
+    "titulo": "Nossos Serviços",
+    "lista": [
+      {
+        "icon": "Dumbbell",
+        "titulo": "Personal Trainer",
+        "descricao": "Treinamento personalizado para atingir seus objetivos."
+      },
+      {
+        "icon": "Heart",
+        "titulo": "Centro de Fisioterapia",
+        "descricao": "Tratamentos especializados para sua recuperação."
+      },
+      {
+        "icon": "Spa",
+        "titulo": "Centro de Estética e Bem-Estar",
+        "descricao": "Cuidados estéticos para sua saúde e beleza."
+      }
+    ]
+  },
+  "precos": {
+    "titulo": "Planos de Serviços",
+    "planos": [
+      {
+        "nome": "Fisioterapia Essencial",
+        "preco": "R$150",
+        "features": [
+          "Sessões de fisioterapia semanais",
+          "Avaliação inicial com fisioterapeuta",
+          "Acesso a equipamentos de reabilitação"
+        ]
+      },
+      {
+        "nome": "Estética Avançada",
+        "preco": "R$250",
+        "features": [
+          "Tratamentos estéticos mensais",
+          "Consultoria de beleza personalizada",
+          "Descontos em produtos de beleza"
+        ]
+      },
+      {
+        "nome": "Personal Trainer Completo",
+        "preco": "R$350",
+        "features": [
+          "Treinamento personalizado 3x por semana",
+          "Plano nutricional individualizado",
+          "Acompanhamento de progresso mensal",
+          "Acesso a workshops exclusivos"
+        ]
+      }
+    ]
+  },
+  "mapa": {
+    "titulo": "Nossa Localização",
+    "endereco": "R. Padre Leopoldino Fernandes, 244 - Alto da Boa Vista, Ribeirão Preto - SP, 14025-580",
+    "coordenadas": {
+      "lat": -21.2028796,
+      "lng": -47.8175076
+    }
+  },
+  "testemunhos": {
+    "titulo": "O Que Nossos Clientes Dizem",
+    "lista": [
+      {
+        "quote": "O Studio Sallus transformou minha saúde. Me sinto mais saudável do que nunca!",
+        "autor": "Ana Silva",
+        "cargo": "Cliente há 1 ano",
+        "rating": 5
+      },
+      {
+        "quote": "Os profissionais são incríveis e os serviços são de alta qualidade.",
+        "autor": "Carlos Santos",
+        "cargo": "Cliente há 6 meses",
+        "rating": 4
+      },
+      {
+        "quote": "Adoro a flexibilidade de horários. Posso agendar quando for melhor para mim.",
+        "autor": "Mariana Oliveira",
+        "cargo": "Cliente há 2 anos",
+        "rating": 5
+      }
+    ]
+  },
+  "hero": {
+    "titulo": "Bem-vindo ao Studio Sallus",
+    "subtitulo": "Experimente o melhor em cuidados pessoais com nossa equipe de especialistas dedicados ao seu bem-estar.",
+    "imagem": "https://media.istockphoto.com/id/1501067984/pt/foto/body-building-center-with-exercise-machines-integrated-inside-a-penthouse-recreation-area.jpg?s=612x612&w=0&k=20&c=Mn5s8ybz5sWgqqoECFDzwRTR5W9baFFrFdopE_HjkqM=",
+    "imagemFallback": "https://blog.damamaefitness.com.br/wp-content/uploads/2020/07/Como-se-acostumar-a-ir-na-academia-frequentemente.jpg",
+    "linkMatricula": "/matricula",
+    "images": [
+      "images/slide-1.png"
+    ]
+  },
+  "horarios": {
+    "domingo": "Fechado",
+    "segunda-feira": "06:00–22:00",
+    "terça-feira": "06:00–22:00",
+    "quarta-feira": "06:00–22:00",
+    "quinta-feira": "06:00–22:00",
+    "sexta-feira": "06:00–22:00",
+    "sábado": "08:00–12:00"
+  }
+}
+
