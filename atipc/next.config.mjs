@@ -16,6 +16,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export', // 🔥 Adiciona exportação estática
+
   experimental: {
     webpackBuildWorker: true,
     parallelServerBuildTraces: true,
