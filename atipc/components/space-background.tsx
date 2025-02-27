@@ -4,7 +4,6 @@ import { Canvas, useFrame } from "@react-three/fiber"
 import { Stars } from "@react-three/drei"
 import { useRef } from "react"
 import type { Group } from "three"
-import React from 'react'
 
 function RotatingStars() {
   const starsRef = useRef<Group>(null)
@@ -23,7 +22,7 @@ function RotatingStars() {
   )
 }
 
-const SpaceBackground = () => {
+export function SpaceBackground() {
   return (
     <div className="fixed inset-0 -z-10">
       <Canvas camera={{ position: [0, 0, 1] }}>
@@ -32,6 +31,4 @@ const SpaceBackground = () => {
     </div>
   )
 }
-
-export default SpaceBackground
 

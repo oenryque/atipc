@@ -1,4 +1,4 @@
-import SpaceBackground from "@/components/space-background"
+import { SpaceBackground } from "@/components/space-background"
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { Specialties } from "@/components/specialties"
