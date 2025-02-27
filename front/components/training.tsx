@@ -31,7 +31,7 @@ const features = [
 export function Training() {
   const handleContact = () => {
     window.open(
-      "https://wa.me/5547962538812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20treinamentos",
+      "https://wa.me/554796253812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20treinamentos",
       "_blank",
     )
   }

@@ -30,7 +30,7 @@ const services = [
 export function ProductManagement() {
   const handleContact = () => {
     window.open(
-      "https://wa.me/47962538812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20consultoria%20em%20Gestão%20de%20Produtos",
+      "https://wa.me/4796253812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20consultoria%20em%20Gestão%20de%20Produtos",
       "_blank",
     )
   }
