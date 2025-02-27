@@ -1,0 +1,139 @@
+{
+  "nome": "Prime Academia",
+  "descricao": "Transformando vidas através do fitness.",
+  "logo": "",
+  "cores": {
+    "primary": "#EDFE0E", 
+    "secondary": "#FFFFFF",
+    "background": "#F8F8F8"
+  },
+  "cta": {
+    "titulo": "Pronto para Transformar Seu Corpo?",
+    "subtitulo": "Junte-se a milhares de membros que já estão melhorando sua saúde e forma física com a Prime Academia.",
+    "linkMatricula": "/matricula"
+  },
+  "header": {
+   
+    "links": [
+      { "nome": "Benefícios", "href": "#features" },
+      { "nome": "Depoimentos", "href": "#testimonials" },
+      { "nome": "Planos", "href": "#pricing" },
+      { "nome": "Local", "href": "#map" }
+    ]
+  },
+  "features": {
+    "titulo": "Nossos Benefícios",
+    "lista": [
+      {
+        "icon": "Users",
+        "titulo": "Aplicativo Prime Academia",
+        "descricao": "Acesse o aplicativo Prime Academia para gerenciar seu treino, horários e muito mais."
+      },
+      {
+        "icon": "Dumbbell",
+        "titulo": "Equipamentos Modernos",
+        "descricao": "Treine com os equipamentos mais avançados do mercado."
+      },
+      {
+        "icon": "Users",
+        "titulo": "Aulas em Grupo",
+        "descricao": "Participe de aulas dinâmicas e motivadoras."
+      },
+      {
+        "icon": "Heart",
+        "titulo": "Bem-estar Total",
+        "descricao": "Programas personalizados para saúde e condicionamento."
+      }
+    ]
+  },
+  "precos": {
+    "titulo": "Planos de Academia",
+    "planos": [
+      {
+        "nome": "Básico",
+        "preco": "R$79",
+        "features": [
+          "Acesso à área de musculação",
+          "Horário comercial",
+          "Armário compartilhado",
+          "Avaliação física mensal"
+        ]
+      },
+      {
+        "nome": "Premium",
+        "preco": "R$129",
+        "features": [
+          "Acesso ilimitado 24h",
+          "Todas as aulas em grupo",
+          "Armário exclusivo",
+          "Avaliação física quinzenal",
+          "Acesso à área de cardio"
+        ]
+      },
+      {
+        "nome": "VIP",
+        "preco": "R$199",
+        "features": [
+          "Todos os benefícios Premium",
+          "Personal trainer 2x por semana",
+          "Plano nutricional",
+          "Acesso à sauna e piscina",
+          "Estacionamento grátis"
+        ]
+      }
+    ]
+  },
+  "mapa": {
+    "titulo": "Nossa Localização",
+    "endereco": "Alameda Domingos F. Vilas Bôas, 946 - Parque dos Lagos, Ribeirão Preto - SP, 14094-164",
+    "coordenadas": {
+      "lat": -21.1995822,
+      "lng": -47.744877
+    }
+  },
+  "testemunhos": {
+    "titulo": "O Que Nossos Membros Dizem",
+    "lista": [
+      {
+        "quote": "A FitLine mudou minha vida. Perdi 20kg e me sinto mais saudável do que nunca!",
+        "autor": "Ana Silva",
+        "cargo": "Membro há 1 ano",
+        "rating": 5
+      },
+      {
+        "quote": "Os instrutores são incríveis e as aulas em grupo são super motivadoras.",
+        "autor": "Carlos Santos",
+        "cargo": "Membro há 6 meses",
+        "rating": 4
+      },
+      {
+        "quote": "Adoro a flexibilidade de horários. Posso treinar quando for melhor para mim.",
+        "autor": "Mariana Oliveira",
+        "cargo": "Membro há 2 anos",
+        "rating": 5
+      }
+    ]
+  },
+  "hero": {
+    "titulo": "2 Andares de uma estrutura moderna",
+    "subtitulo": "Na Prime Academia, oferecemos equipamentos de última geração, aulas dinâmicas e personal trainers experientes para ajudá-lo a alcançar seus objetivos fitness.",
+    "imagem": "https://media.istockphoto.com/id/1501067984/pt/foto/body-building-center-with-exercise-machines-integrated-inside-a-penthouse-recreation-area.jpg?s=612x612&w=0&k=20&c=Mn5s8ybz5sWgqqoECFDzwRTR5W9baFFrFdopE_HjkqM=",
+    "imagemFallback": "https://blog.damamaefitness.com.br/wp-content/uploads/2020/07/Como-se-acostumar-a-ir-na-academia-frequentemente.jpg",
+    "linkMatricula": "/matricula",
+    "images": [
+      "images/slide-1.png",
+      "images/slide-2.png"
+
+    ]
+  },
+  "horarios": {
+    "domingo": "Fechado",
+    "segunda-feira": "05:30–22:00",
+    "terça-feira": "05:30–22:00",
+    "quarta-feira": "05:30–22:00",
+    "quinta-feira": "05:30–22:00",
+    "sexta-feira": "05:30–22:00",
+    "sábado": "08:00–12:00"
+  }
+}
+
