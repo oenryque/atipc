@@ -57,9 +57,7 @@ export function GestoRHHero() {
             >
               <iframe
                 src="https://www.youtube.com/embed/vtOChPleiWo?enablejsapi=1&autoplay=1&controls=0&showinfo=0&rel=0&loop=1&playlist=vtOChPleiWo&modestbranding=1&iv_load_policy=3&disablekb=1" 
-
                 allow="autoplay; encrypted-media" 
-                allowfullscreen
                 className="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
                 ></iframe>
             </motion.div>
