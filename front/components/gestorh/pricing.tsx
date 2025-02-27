@@ -49,7 +49,7 @@ const plans = [
 
 export function GestoRHPricing() {
   const handleContact = () => {
-    window.open("https://wa.me/4796253812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20GestoRH", "_blank")
+    window.open("https://wa.me/554796253812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20GestoRH", "_blank")
   }
 
   return (
