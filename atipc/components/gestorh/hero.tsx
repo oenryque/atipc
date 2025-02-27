@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 
 export function GestoRHHero() {
   const handleContact = () => {
-    window.open("https://wa.me/5547962538812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20GestoRH", "_blank")
+    window.open("https://wa.me/47962538812?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20o%20GestoRH", "_blank")
   }
 
   return (
