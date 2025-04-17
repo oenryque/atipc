@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 export function CTA() {
   const handleContact = () => {
     window.open(
-      "https://wa.me/554796253812?text=Olá%20gostaria%20de%20solicitar%20serviços%20para%20minha%20empresa",
+      "https://wa.me/551981982518?text=Olá%20gostaria%20de%20solicitar%20serviços%20para%20minha%20empresa",
       "_blank",
     )
   }
